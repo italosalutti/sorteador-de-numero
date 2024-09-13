@@ -1,3 +1,6 @@
+CURSO:
+https://cursos.alura.com.br/course/logica-programacao-praticando-desafios/task/139821
+
 OBJETIVO:
 Estruturar um código em javascript para que o projeto do sorteador de números funcione corretamente.
 
